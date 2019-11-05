@@ -1,3 +1,7 @@
+/*
+Purpose of the test is to stress MoveToSdcard feature in Android.
+Contact bachchuwarsuraj@gmail.com for any concern.
+*/
 package com.android.nvtools;
 
 import java.io.IOException;
